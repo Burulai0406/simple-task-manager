@@ -214,4 +214,6 @@ This assignment helped me understand the relationship between GitHub, GitHub Act
 https://github.com/Burulai0406/simple-task-manager
 
 **Live application:**  
-https://simple-task-manager-4sgd.onrender.com
+<img width="1877" height="1033" alt="image" src="https://github.com/user-attachments/assets/fd44d859-54b9-4030-aea2-55f091e7885e" />
+
+
