@@ -215,5 +215,14 @@ https://github.com/Burulai0406/simple-task-manager
 
 **Live application:**  
 <img width="1877" height="1033" alt="image" src="https://github.com/user-attachments/assets/fd44d859-54b9-4030-aea2-55f091e7885e" />
+<img width="1740" height="934" alt="image" src="https://github.com/user-attachments/assets/06f1fe30-e08f-4261-abe2-7396b8657e6b" />
+<img width="222" height="152" alt="image" src="https://github.com/user-attachments/assets/f0fad4e8-5619-46bc-b719-85e23ae94302" />
+<img width="324" height="107" alt="image" src="https://github.com/user-attachments/assets/038012f9-7645-4341-a4d5-0665e8150a61" />
+<img width="1347" height="253" alt="image" src="https://github.com/user-attachments/assets/70efb759-c893-4871-9c01-5e99f55efea7" />
+
+
+
+
+
 
 
